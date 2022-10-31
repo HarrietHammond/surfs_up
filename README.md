@@ -14,6 +14,11 @@ This project is seeking to gather information about temperature trends in Oahu, 
 
 •	June recorded a lower quartile (25%) of 73.0 and a upper quartile (75%) quartile of 77.0 while december recorded a lower quartile (25%) of 69.0 and a upper quartile (75%) quartile of 74.0.  
 
+![June_Temps](https://user-images.githubusercontent.com/112135658/198917515-957e50b1-ec6e-475b-bfbd-a441348de4cd.png)
+
+![December_Temps](https://user-images.githubusercontent.com/112135658/198917544-1caf3dbe-0c19-4547-bea8-12a8e8341ad1.png)
+
+
 ## Summary
 
 December was slightly cooler than June. Even with the "lower" December temperatures. the overall year round temperature is warm enough for the surf and ice cream business to be sustainable all year-round. Additional queries can also be written to extend the start and end data dates. Gmaps could be utilized to give more viusals about the temperature and location information.
